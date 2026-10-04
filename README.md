@@ -28,6 +28,7 @@ Técnico y Responsable de BackOffice con **17+ años en PcComponentes** (el mayo
 | Proyecto | Qué hace | Stack |
 |---|---|---|
 | [🤖 Agente3573b4n](https://github.com/3573b4n/Agente3573b4n) | Agente conversacional con Gemini 2.5 Flash: 9 herramientas con whitelist de seguridad, memoria persistente y bucle de razonamiento tool → resultado → decisión. 17 tests incluidos. | Python · Gemini API |
+| [⚡ JobPulse](https://github.com/3573b4n/JobPulse) | Bot de búsqueda de empleo: rastrea 6 plataformas españolas cada 30 min, filtra por criterios y notifica en Telegram. 24/7 en GitHub Actions. | Python · BeautifulSoup · Telegram API · GitHub Actions |
 | [🎾 roland-data-garros](https://github.com/3573b4n/roland-data-garros) | Dashboard en vivo de Roland Garros 2026 (Streamlit) con pipeline de datos auto-actualizado cada 15 min mediante GitHub Actions. | Python · Streamlit · SQLite · Node.js · GitHub Actions |
 
 ### 💼 Experiencia (resumen)
@@ -65,6 +66,7 @@ BackOffice Lead & Technical Support specialist with **17+ years at PcComponentes
 | Project | What it does | Stack |
 |---|---|---|
 | [🤖 Agente3573b4n](https://github.com/3573b4n/Agente3573b4n) | Conversational agent powered by Gemini 2.5 Flash: 9 sandboxed tools with a security whitelist, persistent memory and a tool → result → decision reasoning loop. 17 tests included. | Python · Gemini API |
+| [⚡ JobPulse](https://github.com/3573b4n/JobPulse) | Job-search bot: scrapes 6 Spanish job boards every 30 min, filters by criteria and sends Telegram alerts. 24/7 on GitHub Actions. | Python · BeautifulSoup · Telegram API · GitHub Actions |
 | [🎾 roland-data-garros](https://github.com/3573b4n/roland-data-garros) | Live Roland Garros 2026 dashboard (Streamlit) fed by a self-updating data pipeline running every 15 minutes via GitHub Actions. | Python · Streamlit · SQLite · Node.js · GitHub Actions |
 
 ### 💼 Experience (summary)
